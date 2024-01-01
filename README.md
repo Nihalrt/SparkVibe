@@ -5,7 +5,7 @@ SparkVibe is a dynamic study group app designed to facilitate seamless collabora
 ## Technologies Used
 
 - **Frontend:**
-  - React: A JavaScript library for building user interfaces.
+  - ReactJS: A JavaScript library for building user interfaces.
   - Next.js: A React framework for server-side rendering and routing.
   - Bootstrap: A front-end framework for responsive and mobile-first web development.
 
